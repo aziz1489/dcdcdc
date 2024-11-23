@@ -1,0 +1,60 @@
+.ddd1 {
+    width: 40%;
+    height: 40%;
+}
+.ddd2 {
+    width: 40%;
+    height: 40%;
+}
+.ddd3 {
+    width: 40%;
+    height: 40%;
+}
+.ddd4 {
+    width: 40%;
+    height: 40%;
+}
+.ddd {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.wrapper {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+gap: 40px;
+ margin-top: 19px;
+}
+.btn1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px 8px 8px 8px;
+   background-color: rgb(14, 73, 15);
+   color: white;
+   font-size: 30px;
+}
+.btn2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px 8px 8px 8px;
+   background-color: rgb(1, 1, 1);
+   color: white;
+   font-size: 30px;
+}
+.btn3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px 8px 8px 8px;
+   background-color: rgb(255, 0, 0);
+   color: white;
+   font-size: 30px;
+}
+.btn4 {
+    width: 50px;
+    height: 50px;
+    border-radius: 8px 8px 8px 8px;
+   background-color: chocolate;
+   color: white;
+   font-size: 30px;
+}
